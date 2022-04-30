@@ -1,5 +1,5 @@
 # AI-art
-VQGAN+CLIP
+VQGAN+CLIP/diffusion models
 
 collecting resources and outcomes
-This is a work in progress...
+
